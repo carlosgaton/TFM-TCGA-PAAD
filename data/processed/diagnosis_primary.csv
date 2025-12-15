@@ -1,186 +1,186 @@
-Patient Id,Ajcc Pathologic Stage,Ajcc Pathologic T,Ajcc Pathologic N,Ajcc Pathologic M,Primary Diagnosis,Residual Disease,Sites Of Involvement,Tumor Grade,Year Of Diagnosis,Lymph Nodes Positive,Maximum Tumor Diameter (cm),Ajcc Pathologic N 8th,Ajcc Pathologic T 8th,Ajcc Pathologic Stage 8th
-TCGA-IB-7897,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2008,2.0,3.5,N1,T2,Stage II
-TCGA-HZ-8315,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,0.0,6.0,N0,T3,Stage II
-TCGA-HZ-8636,Stage IV,T3,N0,M1,Infiltrating Duct Carcinoma,R1,Pancreas Tail,G3,2012,0.0,9.0,N0,T3,Stage IV
-TCGA-IB-7888,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2008,0.0,3.0,N0,T2,Stage I
-TCGA-IB-7893,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Body,G3,2009,0.0,7.0,N0,T3,Stage II
-TCGA-US-A774,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2011,2.0,4.0,N1,T2,Stage II
-TCGA-IB-AAUP,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,7.0,2.7,N2,T2,Stage III
-TCGA-IB-8127,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2011,3.0,4.5,N1,T3,Stage II
-TCGA-2J-AABU,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2012,2.0,3.3,N1,T2,Stage II
-TCGA-HV-AA8V,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R2,Pancreas Head,G3,2012,3.0,,N1,T3,Stage II
-TCGA-3A-A9IH,Stage I,T1,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Body,G2,2012,0.0,2.0,N0,T1,Stage I
-TCGA-3A-A9IO,,TX,NX,MX,Neuroendocrine Carcinoma,R0,Pancreas Body,G1,2009,,3.0,NX,T2,Stage I
-TCGA-FB-AAPP,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2009,3.0,5.5,N1,T3,Stage II
-TCGA-HZ-7289,Stage II,T3,N1,MX,Adenocarcinoma,RX,Pancreas Head,G1,2010,1.0,4.5,N1,T3,Stage II
-TCGA-HV-AA8X,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R2,Pancreas Body,G2,2013,3.0,,N1,T2,Stage II
-TCGA-HZ-A49H,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,1.0,2.8,N1,T2,Stage II
-TCGA-Q3-A5QY,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,4.0,2.7,N2,T2,Stage III
-TCGA-IB-7644,Stage IV,T3,N1,M1,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2011,3.0,2.3,N1,T2,Stage IV
-TCGA-IB-7652,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Body,G2,2011,1.0,4.2,N1,T3,Stage II
-TCGA-IB-AAUW,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2013,1.0,3.5,N1,T2,Stage II
-TCGA-HV-A5A5,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,,Pancreas Head,G2,2012,2.0,,N1,T3,Stage II
-TCGA-3A-A9IV,Stage I,T2,N0,MX,Neuroendocrine Carcinoma,R0,Pancreas Tail,G1,2011,0.0,3.0,N0,T2,Stage I
-TCGA-2L-AAQL,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,RX,Pancreas Head,G3,2011,3.0,4.0,N1,T2,Stage II
-TCGA-F2-A7TX,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2013,7.0,3.6,N2,T2,Stage III
-TCGA-HZ-7920,Stage I,T2,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,0.0,3.2,N0,T2,Stage I
-TCGA-F2-A44G,Stage II,T3,N1,M0,Adenocarcinoma,R1,Pancreas Head,G2,2012,3.0,3.5,N1,T2,Stage II
-TCGA-FB-AAPS,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2008,1.0,3.0,N1,T2,Stage II
-TCGA-HZ-8005,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head|Pancreas Body,G3,2012,8.0,4.5,N2,T3,Stage III
-TCGA-2J-AABV,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G4,2012,13.0,4.1,N2,T3,Stage III
-TCGA-Q3-AA2A,Stage I,T3,N1,MX,Infiltrating Duct Carcinoma,RX,Pancreas Head,G1,2013,9.0,,N2,T3,Stage III
-TCGA-3A-A9IL,,T1,,MX,Neuroendocrine Carcinoma,R0,Pancreas Head,G1,2007,5.0,1.3,N2,T1,Stage III
-TCGA-HZ-A49I,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,3.0,5.0,N1,T3,Stage II
-TCGA-2J-AABI,Stage II,T3,N0,M0,Adenocarcinoma,R0,Pancreas Head,G3,2011,0.0,3.5,N0,T2,Stage I
-TCGA-FB-A78T,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,4.0,3.5,N2,T2,Stage III
-TCGA-HZ-7926,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,RX,Pancreas Head,G1,2011,2.0,3.5,N1,T2,Stage II
-TCGA-HZ-A4BH,Stage II,T3,N1b,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2011,4.0,2.5,N2,T2,Stage III
-TCGA-HV-A7OL,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R2,Pancreas Head,G2,2012,,,N0,T3,Stage II
-TCGA-2J-AAB8,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2012,3.0,3.5,N1,T2,Stage II
-TCGA-HZ-7919,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2011,2.0,4.0,N1,T2,Stage II
-TCGA-IB-A5SS,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G3,2011,5.0,4.5,N2,T3,Stage III
-TCGA-LB-A9Q5,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2013,3.0,3.0,N1,T2,Stage II
-TCGA-IB-7889,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2011,3.0,2.5,N1,T2,Stage II
-TCGA-HV-A5A4,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,,Pancreas Body,G2,2012,1.0,,N1,T3,Stage II
-TCGA-2J-AAB4,Stage II,T2,N1,M0,Adenocarcinoma,R0,Pancreas Tail|Pancreas Body,G2,2012,0.0,6.8,N0,T3,Stage II
-TCGA-FZ-5921,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,,Pancreas Head,GX,2007,1.0,,N1,T3,Stage II
-TCGA-IB-7651,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2009,3.0,2.9,N1,T2,Stage II
-TCGA-XN-A8T5,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,0.0,2.5,N0,T2,Stage I
-TCGA-3A-A9I9,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,0.0,2.5,N0,T2,Stage I
-TCGA-US-A77J,Stage II,T3,N1b,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2010,4.0,2.5,N2,T2,Stage III
-TCGA-3A-A9IB,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2011,5.0,4.0,N2,T2,Stage III
-TCGA-H8-A6C1,Stage II,T3,N0,MX,Adenocarcinoma,R0,Pancreas Head,G2,2012,0.0,3.1,N0,T2,Stage I
-TCGA-2J-AABT,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,1.0,4.5,N1,T3,Stage II
-TCGA-FB-A5VM,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2012,0.0,4.5,N0,T3,Stage II
-TCGA-HV-A5A6,Stage II,T3,N1b,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2001,2.0,,N1,T3,Stage II
-TCGA-IB-8126,Stage III,T4,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G1,2011,5.0,3.5,N2,T4,Stage III
-TCGA-HZ-8637,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2012,1.0,3.4,N1,T2,Stage II
-TCGA-IB-A6UG,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2012,16.0,3.0,N2,T2,Stage III
-TCGA-HZ-A49G,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,3.0,3.0,N1,T2,Stage II
-TCGA-OE-A75W,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G1,2013,0.0,4.5,N0,T3,Stage II
-TCGA-HZ-8002,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,4.0,3.1,N2,T2,Stage III
-TCGA-F2-7273,Stage II,T3,N1,M0,Adenocarcinoma,R1,Pancreas Head,G3,2011,3.0,4.2,N1,T3,Stage II
-TCGA-IB-A5SQ,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,0.0,2.5,N0,T2,Stage I
-TCGA-FZ-5924,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2008,2.0,3.2,N1,T2,Stage II
-TCGA-YH-A8SY,,T3,N1,MX,Adenocarcinoma,,Pancreas Head,G2,2011,16.0,4.1,N2,T3,Stage III
-TCGA-2J-AABR,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head|Pancreas Body,G3,2013,0.0,3.2,N0,T2,Stage I
-TCGA-HZ-A4BK,Stage II,T3,N1,MX,Adenocarcinoma,R1,Pancreas Head,G3,2012,2.0,4.7,N1,T3,Stage II
-TCGA-3A-A9IZ,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,3.0,4.0,N1,T2,Stage II
-TCGA-US-A779,Stage II,T3,N1b,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2011,2.0,3.0,N1,T2,Stage II
-TCGA-IB-7890,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G3,2008,0.0,2.8,N0,T2,Stage I
-TCGA-3A-A9I7,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2010,2.0,,N1,T3,Stage II
-TCGA-HZ-8001,Stage III,T4,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,0.0,3.0,N0,T4,Stage III
-TCGA-HZ-7923,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,0.0,3.0,N0,T2,Stage I
-TCGA-IB-A6UF,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,7.0,3.3,N2,T2,Stage III
-TCGA-F2-A44H,Stage II,T3,N0,M0,Adenocarcinoma,R0,Pancreas Head,G2,2012,0.0,3.5,N0,T2,Stage I
-TCGA-LB-A7SX,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,7.0,2.5,N2,T2,Stage III
-TCGA-3A-A9IR,Stage I,T2,N0,MX,Neuroendocrine Carcinoma,R0,Pancreas Tail,G1,2010,0.0,4.0,N0,T2,Stage I
-TCGA-2J-AABE,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Body,G2,2012,0.0,5.8,N0,T3,Stage II
-TCGA-FB-AAQ3,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2010,1.0,2.5,N1,T2,Stage II
-TCGA-HZ-A77P,Stage II,T3,N1,MX,Adenocarcinoma,R0,Pancreas Head,G1,2013,1.0,3.1,N1,T2,Stage II
-TCGA-XD-AAUL,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,0.0,2.0,N0,T1,Stage I
-TCGA-US-A77E,Stage II,T3,N1,MX,Adenocarcinoma,R1,Pancreas Head,G3,2012,2.0,3.5,N1,T2,Stage II
-TCGA-RB-A7B8,Stage II,T3,N1,MX,Adenocarcinoma With Mixed Subtypes,R0,Pancreas Head,G2,2013,8.0,2.3,N2,T2,Stage III
-TCGA-HV-A7OP,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,GX,2012,7.0,6.5,N2,T3,Stage III
-TCGA-F2-A8YN,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,0.0,4.8,N0,T3,Stage II
-TCGA-3A-A9IJ,Stage I,T2,N0,MX,Neuroendocrine Carcinoma,R0,Pancreas Head,G1,2009,0.0,3.5,N0,T2,Stage I
-TCGA-HZ-8638,Stage I,T1,N0,MX,Mucinous Adenocarcinoma,R0,Pancreas Head,GX,2012,0.0,0.3,N0,T1,Stage I
-TCGA-HZ-7918,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2011,11.0,5.5,N2,T3,Stage III
-TCGA-IB-AAUN,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,0.0,2.3,N0,T2,Stage I
-TCGA-IB-7654,Stage II,T2,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2008,2.0,3.0,N1,T2,Stage II
-TCGA-IB-AAUR,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G1,2013,9.0,3.7,N2,T2,Stage III
-TCGA-3A-A9IC,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,4.0,4.0,N2,T2,Stage III
-TCGA-HZ-8003,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,1.0,2.8,N1,T2,Stage II
-TCGA-IB-AAUS,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head|Pancreas Body,G2,2013,2.0,4.0,N1,T2,Stage II
-TCGA-IB-AAUV,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,3.0,4.8,N1,T3,Stage II
-TCGA-IB-A7M4,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Body,G3,2013,1.0,,N1,T3,Stage II
-TCGA-Z5-AAPL,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Body|Pancreas Tail,G1,2013,0.0,,N0,T3,Stage II
-TCGA-IB-A5ST,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,2.0,3.2,N1,T2,Stage II
-TCGA-HZ-7922,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2011,3.0,3.0,N1,T2,Stage II
-TCGA-2J-AAB6,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Body,G2,2012,0.0,5.0,N0,T3,Stage II
-TCGA-HZ-8519,Stage I,T1,N0,MX,Adenocarcinoma,R0,Pancreas Head,G3,2012,0.0,1.8,N0,T1,Stage I
-TCGA-FB-AAPU,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2008,0.0,4.0,N0,T2,Stage I
-TCGA-IB-A7LX,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,4.0,5.5,N2,T3,Stage III
-TCGA-2L-AAQM,Stage II,T3,N1,MX,Neuroendocrine Carcinoma,R1,Stomach|Pancreas Body|Pancreas Tail,G1,2010,16.0,14.0,N2,T3,Stage III
-TCGA-FZ-5926,Stage III,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2001,8.0,1.5,N2,T1,Stage III
-TCGA-US-A77G,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2010,3.0,2.0,N1,T1,Stage II
-TCGA-2J-AAB1,Stage II,T3,N1,M0,Mucinous Adenocarcinoma,R0,Pancreas Head,G3,2012,7.0,4.5,N2,T3,Stage III
-TCGA-H6-A45N,Stage II,T3,N1,MX,Adenocarcinoma,,Pancreas Tail,G3,2012,1.0,9.0,N1,T3,Stage II
-TCGA-IB-7885,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2010,3.0,2.4,N1,T2,Stage II
-TCGA-IB-7645,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2007,5.0,4.5,N2,T3,Stage III
-TCGA-H6-8124,Stage II,T3,N1,M0,Adenocarcinoma,R0,Pancreas Head,G3,2011,2.0,3.0,N1,T2,Stage II
-TCGA-FZ-5923,Stage IV,T4,N1,M1,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2008,1.0,3.8,N1,T4,Stage IV
-TCGA-FB-AAQ0,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2011,0.0,2.7,N0,T2,Stage I
-TCGA-FB-AAQ6,Stage I,T1,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G2,2011,0.0,2.0,N0,T1,Stage I
-TCGA-IB-AAUO,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2013,5.0,2.7,N2,T2,Stage III
-TCGA-2J-AABF,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2012,4.0,3.2,N2,T2,Stage III
-TCGA-IB-AAUT,Stage II,T2,N1,M0,Mucinous Adenocarcinoma,R1,Pancreas Head,G1,2013,7.0,,N2,T2,Stage III
-TCGA-F2-6879,Stage II,T3,N1,M0,Adenocarcinoma,R0,Pancreas Head,G2,2009,2.0,4.5,N1,T3,Stage II
-TCGA-2L-AAQE,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,1.0,4.5,N1,T3,Stage II
-TCGA-FB-A4P6,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,,Pancreas Head,G1,2012,1.0,4.5,N1,T3,Stage II
-TCGA-HZ-A9TJ,Stage IV,T3,N0,M1,Adenocarcinoma,R0,Pancreas Tail,G2,2013,0.0,8.0,N0,T3,Stage IV
-TCGA-FB-AAPY,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2007,2.0,3.5,N1,T2,Stage II
-TCGA-3A-A9IX,Stage I,T1,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,0.0,2.0,N0,T1,Stage I
-TCGA-HZ-A8P0,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2013,15.0,3.1,N2,T2,Stage III
-TCGA-3A-A9I5,,,N0,MX,Infiltrating Duct Carcinoma,R0,"Pancreas, NOS",G1,2009,0.0,3.0,N0,T2,Stage I
-TCGA-XD-AAUI,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,10.0,3.5,N2,T2,Stage III
-TCGA-3E-AAAZ,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,,Pancreas Head,G2,2008,0.0,3.2,N0,T2,Stage I
-TCGA-RB-AA9M,Stage II,T1,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G3,2013,1.0,2.0,N1,T1,Stage II
-TCGA-FZ-5920,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2007,3.0,3.5,N1,T2,Stage II
-TCGA-2L-AAQI,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2011,6.0,4.0,N2,T2,Stage III
-TCGA-HZ-8317,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G1,2012,4.0,3.1,N2,T2,Stage III
-TCGA-3A-A9J0,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,5.0,4.0,N2,T2,Stage III
-TCGA-2J-AABP,Stage II,T3,N1,M0,"Carcinoma, Undifferentiated",R0,Pancreas Tail,G4,2013,1.0,7.2,N1,T3,Stage II
-TCGA-FZ-5922,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2007,0.0,1.8,N0,T1,Stage I
-TCGA-IB-AAUU,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2013,2.0,3.0,N1,T2,Stage II
-TCGA-2J-AAB9,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2012,6.0,4.0,N2,T2,Stage III
-TCGA-3E-AAAY,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,,Pancreas Head|Pancreas Body,G3,2008,5.0,3.0,N2,T2,Stage III
-TCGA-2J-AABO,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,8.0,4.6,N2,T3,Stage III
-TCGA-S4-A8RO,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,1.0,4.0,N1,T2,Stage II
-TCGA-L1-A7W4,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R2,Pancreas Head,G3,2013,2.0,2.8,N1,T2,Stage II
-TCGA-HZ-7924,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,0.0,5.0,N0,T3,Stage II
-TCGA-IB-AAUQ,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Tail,G2,2013,13.0,4.5,N2,T3,Stage III
-TCGA-FB-A545,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,,Pancreas Body,G2,2012,4.0,,N2,T3,Stage III
-TCGA-FB-A4P5,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,4.0,4.5,N2,T3,Stage III
-TCGA-XD-AAUH,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R2,Pancreas Head,G2,2013,7.0,2.8,N2,T2,Stage III
-TCGA-YB-A89D,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,4.0,3.2,N2,T2,Stage III
-TCGA-HZ-A8P1,Stage I,T2,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G1,2013,0.0,5.0,N0,T3,Stage II
-TCGA-IB-A5SP,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2011,0.0,3.0,N0,T2,Stage I
-TCGA-2J-AABK,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,2.0,2.8,N1,T2,Stage II
-TCGA-PZ-A5RE,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,,Pancreas Head,G3,2012,3.0,3.0,N1,T2,Stage II
-TCGA-2J-AABH,Stage II,T3,N0,M0,Adenocarcinoma,R0,Pancreas Body,G3,2011,0.0,2.2,N0,T2,Stage I
-TCGA-RL-AAAS,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,0.0,2.0,N0,T1,Stage I
-TCGA-F2-6880,Stage II,T3,N1,M0,Adenocarcinoma,R0,Pancreas Head,G1,2009,1.0,2.2,N1,T2,Stage II
-TCGA-IB-A5SO,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,3.0,3.8,N1,T2,Stage II
-TCGA-S4-A8RM,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,"Pancreas, NOS",G3,2013,1.0,6.0,N1,T3,Stage II
-TCGA-IB-7891,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2011,7.0,2.3,N2,T2,Stage III
-TCGA-3A-A9IU,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2011,2.0,4.0,N1,T2,Stage II
-TCGA-S4-A8RP,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2010,2.0,2.8,N1,T2,Stage II
-TCGA-HZ-A77Q,Stage II,T3,N1,MX,Adenocarcinoma,R0,Pancreas Head,G2,2013,1.0,2.8,N1,T2,Stage II
-TCGA-3A-A9IS,Stage I,T2,N0,MX,Neuroendocrine Carcinoma,R0,Pancreas Body,G1,2010,0.0,8.0,N0,T3,Stage II
-TCGA-IB-AAUM,Stage II,T2,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2013,1.0,2.1,N1,T2,Stage II
-TCGA-IB-7647,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2008,14.0,6.0,N2,T3,Stage III
-TCGA-IB-7646,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2007,6.0,4.5,N2,T3,Stage III
-TCGA-US-A776,Stage II,T3,N0,MX,Mucinous Adenocarcinoma,R0,Pancreas Head,G2,2011,0.0,3.0,N0,T2,Stage I
-TCGA-FB-A7DR,Stage II,T3,NX,M0,Mucinous Adenocarcinoma,R0,Pancreas Head,G2,2012,,3.0,NX,T2,Stage I
-TCGA-HV-A5A3,Stage II,T3,NX,MX,Infiltrating Duct Carcinoma,,Pancreas Body,G2,2012,5.0,,N2,T3,Stage III
-TCGA-2L-AAQA,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2010,6.0,12.0,N2,T3,Stage III
-TCGA-3A-A9IN,Stage I,T2,NX,MX,Neuroendocrine Carcinoma,R1,Pancreas Body,G2,2008,,5.0,NX,T3,Stage II
-TCGA-XN-A8T3,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,0.0,2.4,N0,T2,Stage I
-TCGA-2J-AABA,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,2.0,4.3,N1,T3,Stage II
-TCGA-F2-7276,Stage II,T3,N1,M0,Adenocarcinoma,R0,Pancreas Head,G1,2011,9.0,5.5,N2,T3,Stage III
-TCGA-IB-7649,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2007,5.0,4.0,N2,T2,Stage III
-TCGA-FB-AAPQ,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2008,4.0,5.0,N2,T3,Stage III
-TCGA-YY-A8LH,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G3,2009,2.0,4.2,N1,T3,Stage II
-TCGA-M8-A5N4,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,,0.0,3.4,N0,T2,Stage I
-TCGA-FB-AAPZ,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2008,1.0,3.8,N1,T2,Stage II
-TCGA-FB-AAQ2,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2011,2.0,5.5,N1,T3,Stage II
-TCGA-IB-7886,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2010,4.0,6.0,N2,T3,Stage III
-TCGA-LB-A8F3,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2013,0.0,5.0,N0,T3,Stage II
-TCGA-XD-AAUG,Stage IV,T3,N1,M1,Infiltrating Duct Carcinoma,R0,Pancreas Body|Pancreas Tail,G2,2013,1.0,3.2,N1,T2,Stage IV
-TCGA-HZ-7925,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,2.0,4.7,N1,T3,Stage II
-TCGA-2L-AAQJ,Stage III,T4,N0,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2010,0.0,3.0,N0,T4,Stage III
-TCGA-HZ-A77O,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,4.0,2.8,N2,T2,Stage III
-TCGA-IB-7887,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2009,3.0,5.5,N1,T3,Stage II
-TCGA-FZ-5919,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,,Pancreas Head,G3,2007,9.0,,N2,T3,Stage III
-TCGA-FB-AAQ1,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2011,3.0,6.0,N1,T3,Stage II
+Patient Id,Ajcc Pathologic Stage,Ajcc Pathologic T,Ajcc Pathologic N,Ajcc Pathologic M,Primary Diagnosis,Residual Disease,Sites Of Involvement,Tumor Grade,Year Of Diagnosis,Lymph Nodes Positive,Maximum Tumor Diameter (cm),Ajcc Pathologic N 8th,Ajcc Pathologic T 8th,Ajcc Pathologic Stage 8th,Gene Mutations
+TCGA-IB-7897,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2008,2.0,3.5,N1,T2,Stage II,
+TCGA-HZ-8315,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,0.0,6.0,N0,T3,Stage II,
+TCGA-HZ-8636,Stage IV,T3,N0,M1,Infiltrating Duct Carcinoma,R1,Pancreas Tail,G3,2012,0.0,9.0,N0,T3,Stage IV,
+TCGA-IB-7888,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2008,0.0,3.0,N0,T2,Stage I,
+TCGA-IB-7893,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Body,G3,2009,0.0,7.0,N0,T3,Stage II,
+TCGA-US-A774,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2011,2.0,4.0,N1,T2,Stage II,
+TCGA-IB-AAUP,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,7.0,2.7,N2,T2,Stage III,82.0
+TCGA-IB-8127,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2011,3.0,4.5,N1,T3,Stage II,
+TCGA-2J-AABU,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2012,2.0,3.3,N1,T2,Stage II,47.0
+TCGA-HV-AA8V,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R2,Pancreas Head,G3,2012,3.0,,N1,T3,Stage II,50.0
+TCGA-3A-A9IH,Stage I,T1,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Body,G2,2012,0.0,2.0,N0,T1,Stage I,78.0
+TCGA-3A-A9IO,,TX,NX,MX,Neuroendocrine Carcinoma,R0,Pancreas Body,G1,2009,,3.0,NX,T2,Stage I,36.0
+TCGA-FB-AAPP,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2009,3.0,5.5,N1,T3,Stage II,125.0
+TCGA-HZ-7289,Stage II,T3,N1,MX,Adenocarcinoma,RX,Pancreas Head,G1,2010,1.0,4.5,N1,T3,Stage II,
+TCGA-HV-AA8X,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R2,Pancreas Body,G2,2013,3.0,,N1,T2,Stage II,81.0
+TCGA-HZ-A49H,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,1.0,2.8,N1,T2,Stage II,
+TCGA-Q3-A5QY,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,4.0,2.7,N2,T2,Stage III,70.0
+TCGA-IB-7644,Stage IV,T3,N1,M1,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2011,3.0,2.3,N1,T2,Stage IV,
+TCGA-IB-7652,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Body,G2,2011,1.0,4.2,N1,T3,Stage II,72.0
+TCGA-IB-AAUW,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2013,1.0,3.5,N1,T2,Stage II,27.0
+TCGA-HV-A5A5,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,,Pancreas Head,G2,2012,2.0,,N1,T3,Stage II,
+TCGA-3A-A9IV,Stage I,T2,N0,MX,Neuroendocrine Carcinoma,R0,Pancreas Tail,G1,2011,0.0,3.0,N0,T2,Stage I,80.0
+TCGA-2L-AAQL,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,RX,Pancreas Head,G3,2011,3.0,4.0,N1,T2,Stage II,62.0
+TCGA-F2-A7TX,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2013,7.0,3.6,N2,T2,Stage III,54.0
+TCGA-HZ-7920,Stage I,T2,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,0.0,3.2,N0,T2,Stage I,
+TCGA-F2-A44G,Stage II,T3,N1,M0,Adenocarcinoma,R1,Pancreas Head,G2,2012,3.0,3.5,N1,T2,Stage II,51.0
+TCGA-FB-AAPS,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2008,1.0,3.0,N1,T2,Stage II,57.0
+TCGA-HZ-8005,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head|Pancreas Body,G3,2012,8.0,4.5,N2,T3,Stage III,
+TCGA-2J-AABV,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G4,2012,13.0,4.1,N2,T3,Stage III,35.0
+TCGA-Q3-AA2A,Stage I,T3,N1,MX,Infiltrating Duct Carcinoma,RX,Pancreas Head,G1,2013,9.0,,N2,T3,Stage III,53.0
+TCGA-3A-A9IL,,T1,,MX,Neuroendocrine Carcinoma,R0,Pancreas Head,G1,2007,5.0,1.3,N2,T1,Stage III,29.0
+TCGA-HZ-A49I,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,3.0,5.0,N1,T3,Stage II,52.0
+TCGA-2J-AABI,Stage II,T3,N0,M0,Adenocarcinoma,R0,Pancreas Head,G3,2011,0.0,3.5,N0,T2,Stage I,
+TCGA-FB-A78T,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,4.0,3.5,N2,T2,Stage III,86.0
+TCGA-HZ-7926,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,RX,Pancreas Head,G1,2011,2.0,3.5,N1,T2,Stage II,
+TCGA-HZ-A4BH,Stage II,T3,N1b,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2011,4.0,2.5,N2,T2,Stage III,
+TCGA-HV-A7OL,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R2,Pancreas Head,G2,2012,,,N0,T3,Stage II,121.0
+TCGA-2J-AAB8,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2012,3.0,3.5,N1,T2,Stage II,72.0
+TCGA-HZ-7919,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2011,2.0,4.0,N1,T2,Stage II,
+TCGA-IB-A5SS,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G3,2011,5.0,4.5,N2,T3,Stage III,63.0
+TCGA-LB-A9Q5,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2013,3.0,3.0,N1,T2,Stage II,71.0
+TCGA-IB-7889,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2011,3.0,2.5,N1,T2,Stage II,
+TCGA-HV-A5A4,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,,Pancreas Body,G2,2012,1.0,,N1,T3,Stage II,
+TCGA-2J-AAB4,Stage II,T2,N1,M0,Adenocarcinoma,R0,Pancreas Tail|Pancreas Body,G2,2012,0.0,6.8,N0,T3,Stage II,60.0
+TCGA-FZ-5921,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,,Pancreas Head,GX,2007,1.0,,N1,T3,Stage II,45.0
+TCGA-IB-7651,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2009,3.0,2.9,N1,T2,Stage II,1989.0
+TCGA-XN-A8T5,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,0.0,2.5,N0,T2,Stage I,67.0
+TCGA-3A-A9I9,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,0.0,2.5,N0,T2,Stage I,78.0
+TCGA-US-A77J,Stage II,T3,N1b,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2010,4.0,2.5,N2,T2,Stage III,64.0
+TCGA-3A-A9IB,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2011,5.0,4.0,N2,T2,Stage III,80.0
+TCGA-H8-A6C1,Stage II,T3,N0,MX,Adenocarcinoma,R0,Pancreas Head,G2,2012,0.0,3.1,N0,T2,Stage I,79.0
+TCGA-2J-AABT,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,1.0,4.5,N1,T3,Stage II,30.0
+TCGA-FB-A5VM,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2012,0.0,4.5,N0,T3,Stage II,78.0
+TCGA-HV-A5A6,Stage II,T3,N1b,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2001,2.0,,N1,T3,Stage II,
+TCGA-IB-8126,Stage III,T4,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G1,2011,5.0,3.5,N2,T4,Stage III,103.0
+TCGA-HZ-8637,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2012,1.0,3.4,N1,T2,Stage II,108.0
+TCGA-IB-A6UG,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2012,16.0,3.0,N2,T2,Stage III,111.0
+TCGA-HZ-A49G,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,3.0,3.0,N1,T2,Stage II,
+TCGA-OE-A75W,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G1,2013,0.0,4.5,N0,T3,Stage II,114.0
+TCGA-HZ-8002,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,4.0,3.1,N2,T2,Stage III,
+TCGA-F2-7273,Stage II,T3,N1,M0,Adenocarcinoma,R1,Pancreas Head,G3,2011,3.0,4.2,N1,T3,Stage II,38.0
+TCGA-IB-A5SQ,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,0.0,2.5,N0,T2,Stage I,92.0
+TCGA-FZ-5924,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2008,2.0,3.2,N1,T2,Stage II,25.0
+TCGA-YH-A8SY,,T3,N1,MX,Adenocarcinoma,,Pancreas Head,G2,2011,16.0,4.1,N2,T3,Stage III,91.0
+TCGA-2J-AABR,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head|Pancreas Body,G3,2013,0.0,3.2,N0,T2,Stage I,43.0
+TCGA-HZ-A4BK,Stage II,T3,N1,MX,Adenocarcinoma,R1,Pancreas Head,G3,2012,2.0,4.7,N1,T3,Stage II,
+TCGA-3A-A9IZ,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,3.0,4.0,N1,T2,Stage II,59.0
+TCGA-US-A779,Stage II,T3,N1b,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2011,2.0,3.0,N1,T2,Stage II,73.0
+TCGA-IB-7890,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G3,2008,0.0,2.8,N0,T2,Stage I,
+TCGA-3A-A9I7,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2010,2.0,,N1,T3,Stage II,41.0
+TCGA-HZ-8001,Stage III,T4,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,0.0,3.0,N0,T4,Stage III,
+TCGA-HZ-7923,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,0.0,3.0,N0,T2,Stage I,
+TCGA-IB-A6UF,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,7.0,3.3,N2,T2,Stage III,114.0
+TCGA-F2-A44H,Stage II,T3,N0,M0,Adenocarcinoma,R0,Pancreas Head,G2,2012,0.0,3.5,N0,T2,Stage I,
+TCGA-LB-A7SX,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,7.0,2.5,N2,T2,Stage III,159.0
+TCGA-3A-A9IR,Stage I,T2,N0,MX,Neuroendocrine Carcinoma,R0,Pancreas Tail,G1,2010,0.0,4.0,N0,T2,Stage I,38.0
+TCGA-2J-AABE,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Body,G2,2012,0.0,5.8,N0,T3,Stage II,61.0
+TCGA-FB-AAQ3,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2010,1.0,2.5,N1,T2,Stage II,53.0
+TCGA-HZ-A77P,Stage II,T3,N1,MX,Adenocarcinoma,R0,Pancreas Head,G1,2013,1.0,3.1,N1,T2,Stage II,132.0
+TCGA-XD-AAUL,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,0.0,2.0,N0,T1,Stage I,65.0
+TCGA-US-A77E,Stage II,T3,N1,MX,Adenocarcinoma,R1,Pancreas Head,G3,2012,2.0,3.5,N1,T2,Stage II,86.0
+TCGA-RB-A7B8,Stage II,T3,N1,MX,Adenocarcinoma With Mixed Subtypes,R0,Pancreas Head,G2,2013,8.0,2.3,N2,T2,Stage III,100.0
+TCGA-HV-A7OP,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,GX,2012,7.0,6.5,N2,T3,Stage III,165.0
+TCGA-F2-A8YN,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,0.0,4.8,N0,T3,Stage II,89.0
+TCGA-3A-A9IJ,Stage I,T2,N0,MX,Neuroendocrine Carcinoma,R0,Pancreas Head,G1,2009,0.0,3.5,N0,T2,Stage I,79.0
+TCGA-HZ-8638,Stage I,T1,N0,MX,Mucinous Adenocarcinoma,R0,Pancreas Head,GX,2012,0.0,0.3,N0,T1,Stage I,
+TCGA-HZ-7918,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2011,11.0,5.5,N2,T3,Stage III,52.0
+TCGA-IB-AAUN,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,0.0,2.3,N0,T2,Stage I,32.0
+TCGA-IB-7654,Stage II,T2,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2008,2.0,3.0,N1,T2,Stage II,
+TCGA-IB-AAUR,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G1,2013,9.0,3.7,N2,T2,Stage III,38.0
+TCGA-3A-A9IC,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,4.0,4.0,N2,T2,Stage III,49.0
+TCGA-HZ-8003,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,1.0,2.8,N1,T2,Stage II,
+TCGA-IB-AAUS,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head|Pancreas Body,G2,2013,2.0,4.0,N1,T2,Stage II,45.0
+TCGA-IB-AAUV,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,3.0,4.8,N1,T3,Stage II,23.0
+TCGA-IB-A7M4,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Body,G3,2013,1.0,,N1,T3,Stage II,85.0
+TCGA-Z5-AAPL,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Body|Pancreas Tail,G1,2013,0.0,,N0,T3,Stage II,55.0
+TCGA-IB-A5ST,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,2.0,3.2,N1,T2,Stage II,65.0
+TCGA-HZ-7922,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2011,3.0,3.0,N1,T2,Stage II,
+TCGA-2J-AAB6,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Body,G2,2012,0.0,5.0,N0,T3,Stage II,79.0
+TCGA-HZ-8519,Stage I,T1,N0,MX,Adenocarcinoma,R0,Pancreas Head,G3,2012,0.0,1.8,N0,T1,Stage I,
+TCGA-FB-AAPU,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2008,0.0,4.0,N0,T2,Stage I,70.0
+TCGA-IB-A7LX,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,4.0,5.5,N2,T3,Stage III,59.0
+TCGA-2L-AAQM,Stage II,T3,N1,MX,Neuroendocrine Carcinoma,R1,Stomach|Pancreas Body|Pancreas Tail,G1,2010,16.0,14.0,N2,T3,Stage III,53.0
+TCGA-FZ-5926,Stage III,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2001,8.0,1.5,N2,T1,Stage III,34.0
+TCGA-US-A77G,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2010,3.0,2.0,N1,T1,Stage II,77.0
+TCGA-2J-AAB1,Stage II,T3,N1,M0,Mucinous Adenocarcinoma,R0,Pancreas Head,G3,2012,7.0,4.5,N2,T3,Stage III,71.0
+TCGA-H6-A45N,Stage II,T3,N1,MX,Adenocarcinoma,,Pancreas Tail,G3,2012,1.0,9.0,N1,T3,Stage II,
+TCGA-IB-7885,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2010,3.0,2.4,N1,T2,Stage II,64.0
+TCGA-IB-7645,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2007,5.0,4.5,N2,T3,Stage III,
+TCGA-H6-8124,Stage II,T3,N1,M0,Adenocarcinoma,R0,Pancreas Head,G3,2011,2.0,3.0,N1,T2,Stage II,
+TCGA-FZ-5923,Stage IV,T4,N1,M1,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2008,1.0,3.8,N1,T4,Stage IV,55.0
+TCGA-FB-AAQ0,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2011,0.0,2.7,N0,T2,Stage I,63.0
+TCGA-FB-AAQ6,Stage I,T1,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G2,2011,0.0,2.0,N0,T1,Stage I,60.0
+TCGA-IB-AAUO,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2013,5.0,2.7,N2,T2,Stage III,58.0
+TCGA-2J-AABF,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2012,4.0,3.2,N2,T2,Stage III,39.0
+TCGA-IB-AAUT,Stage II,T2,N1,M0,Mucinous Adenocarcinoma,R1,Pancreas Head,G1,2013,7.0,,N2,T2,Stage III,
+TCGA-F2-6879,Stage II,T3,N1,M0,Adenocarcinoma,R0,Pancreas Head,G2,2009,2.0,4.5,N1,T3,Stage II,
+TCGA-2L-AAQE,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,1.0,4.5,N1,T3,Stage II,63.0
+TCGA-FB-A4P6,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,,Pancreas Head,G1,2012,1.0,4.5,N1,T3,Stage II,
+TCGA-HZ-A9TJ,Stage IV,T3,N0,M1,Adenocarcinoma,R0,Pancreas Tail,G2,2013,0.0,8.0,N0,T3,Stage IV,89.0
+TCGA-FB-AAPY,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2007,2.0,3.5,N1,T2,Stage II,
+TCGA-3A-A9IX,Stage I,T1,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,0.0,2.0,N0,T1,Stage I,55.0
+TCGA-HZ-A8P0,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2013,15.0,3.1,N2,T2,Stage III,74.0
+TCGA-3A-A9I5,,,N0,MX,Infiltrating Duct Carcinoma,R0,"Pancreas, NOS",G1,2009,0.0,3.0,N0,T2,Stage I,34.0
+TCGA-XD-AAUI,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,10.0,3.5,N2,T2,Stage III,52.0
+TCGA-3E-AAAZ,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,,Pancreas Head,G2,2008,0.0,3.2,N0,T2,Stage I,51.0
+TCGA-RB-AA9M,Stage II,T1,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G3,2013,1.0,2.0,N1,T1,Stage II,89.0
+TCGA-FZ-5920,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2007,3.0,3.5,N1,T2,Stage II,58.0
+TCGA-2L-AAQI,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2011,6.0,4.0,N2,T2,Stage III,76.0
+TCGA-HZ-8317,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G1,2012,4.0,3.1,N2,T2,Stage III,
+TCGA-3A-A9J0,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,5.0,4.0,N2,T2,Stage III,77.0
+TCGA-2J-AABP,Stage II,T3,N1,M0,"Carcinoma, Undifferentiated",R0,Pancreas Tail,G4,2013,1.0,7.2,N1,T3,Stage II,107.0
+TCGA-FZ-5922,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2007,0.0,1.8,N0,T1,Stage I,44.0
+TCGA-IB-AAUU,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2013,2.0,3.0,N1,T2,Stage II,89.0
+TCGA-2J-AAB9,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2012,6.0,4.0,N2,T2,Stage III,51.0
+TCGA-3E-AAAY,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,,Pancreas Head|Pancreas Body,G3,2008,5.0,3.0,N2,T2,Stage III,36.0
+TCGA-2J-AABO,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,8.0,4.6,N2,T3,Stage III,80.0
+TCGA-S4-A8RO,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2013,1.0,4.0,N1,T2,Stage II,67.0
+TCGA-L1-A7W4,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R2,Pancreas Head,G3,2013,2.0,2.8,N1,T2,Stage II,
+TCGA-HZ-7924,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,0.0,5.0,N0,T3,Stage II,
+TCGA-IB-AAUQ,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Tail,G2,2013,13.0,4.5,N2,T3,Stage III,64.0
+TCGA-FB-A545,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,,Pancreas Body,G2,2012,4.0,,N2,T3,Stage III,
+TCGA-FB-A4P5,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,4.0,4.5,N2,T3,Stage III,
+TCGA-XD-AAUH,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R2,Pancreas Head,G2,2013,7.0,2.8,N2,T2,Stage III,34.0
+TCGA-YB-A89D,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,4.0,3.2,N2,T2,Stage III,171.0
+TCGA-HZ-A8P1,Stage I,T2,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G1,2013,0.0,5.0,N0,T3,Stage II,46.0
+TCGA-IB-A5SP,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2011,0.0,3.0,N0,T2,Stage I,82.0
+TCGA-2J-AABK,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,2.0,2.8,N1,T2,Stage II,56.0
+TCGA-PZ-A5RE,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,,Pancreas Head,G3,2012,3.0,3.0,N1,T2,Stage II,
+TCGA-2J-AABH,Stage II,T3,N0,M0,Adenocarcinoma,R0,Pancreas Body,G3,2011,0.0,2.2,N0,T2,Stage I,45.0
+TCGA-RL-AAAS,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,0.0,2.0,N0,T1,Stage I,58.0
+TCGA-F2-6880,Stage II,T3,N1,M0,Adenocarcinoma,R0,Pancreas Head,G1,2009,1.0,2.2,N1,T2,Stage II,
+TCGA-IB-A5SO,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2012,3.0,3.8,N1,T2,Stage II,70.0
+TCGA-S4-A8RM,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,"Pancreas, NOS",G3,2013,1.0,6.0,N1,T3,Stage II,
+TCGA-IB-7891,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2011,7.0,2.3,N2,T2,Stage III,
+TCGA-3A-A9IU,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2011,2.0,4.0,N1,T2,Stage II,77.0
+TCGA-S4-A8RP,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2010,2.0,2.8,N1,T2,Stage II,
+TCGA-HZ-A77Q,Stage II,T3,N1,MX,Adenocarcinoma,R0,Pancreas Head,G2,2013,1.0,2.8,N1,T2,Stage II,170.0
+TCGA-3A-A9IS,Stage I,T2,N0,MX,Neuroendocrine Carcinoma,R0,Pancreas Body,G1,2010,0.0,8.0,N0,T3,Stage II,48.0
+TCGA-IB-AAUM,Stage II,T2,N1,M0,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2013,1.0,2.1,N1,T2,Stage II,46.0
+TCGA-IB-7647,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2008,14.0,6.0,N2,T3,Stage III,
+TCGA-IB-7646,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2007,6.0,4.5,N2,T3,Stage III,
+TCGA-US-A776,Stage II,T3,N0,MX,Mucinous Adenocarcinoma,R0,Pancreas Head,G2,2011,0.0,3.0,N0,T2,Stage I,126.0
+TCGA-FB-A7DR,Stage II,T3,NX,M0,Mucinous Adenocarcinoma,R0,Pancreas Head,G2,2012,,3.0,NX,T2,Stage I,
+TCGA-HV-A5A3,Stage II,T3,NX,MX,Infiltrating Duct Carcinoma,,Pancreas Body,G2,2012,5.0,,N2,T3,Stage III,
+TCGA-2L-AAQA,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2010,6.0,12.0,N2,T3,Stage III,127.0
+TCGA-3A-A9IN,Stage I,T2,NX,MX,Neuroendocrine Carcinoma,R1,Pancreas Body,G2,2008,,5.0,NX,T3,Stage II,
+TCGA-XN-A8T3,Stage I,T2,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,0.0,2.4,N0,T2,Stage I,95.0
+TCGA-2J-AABA,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2012,2.0,4.3,N1,T3,Stage II,58.0
+TCGA-F2-7276,Stage II,T3,N1,M0,Adenocarcinoma,R0,Pancreas Head,G1,2011,9.0,5.5,N2,T3,Stage III,
+TCGA-IB-7649,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2007,5.0,4.0,N2,T2,Stage III,
+TCGA-FB-AAPQ,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2008,4.0,5.0,N2,T3,Stage III,50.0
+TCGA-YY-A8LH,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Tail,G3,2009,2.0,4.2,N1,T3,Stage II,102.0
+TCGA-M8-A5N4,Stage II,T3,N0,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,,0.0,3.4,N0,T2,Stage I,
+TCGA-FB-AAPZ,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G3,2008,1.0,3.8,N1,T2,Stage II,51.0
+TCGA-FB-AAQ2,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2011,2.0,5.5,N1,T3,Stage II,59.0
+TCGA-IB-7886,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G3,2010,4.0,6.0,N2,T3,Stage III,
+TCGA-LB-A8F3,Stage II,T3,N0,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G1,2013,0.0,5.0,N0,T3,Stage II,76.0
+TCGA-XD-AAUG,Stage IV,T3,N1,M1,Infiltrating Duct Carcinoma,R0,Pancreas Body|Pancreas Tail,G2,2013,1.0,3.2,N1,T2,Stage IV,37.0
+TCGA-HZ-7925,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2011,2.0,4.7,N1,T3,Stage II,50.0
+TCGA-2L-AAQJ,Stage III,T4,N0,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2010,0.0,3.0,N0,T4,Stage III,96.0
+TCGA-HZ-A77O,Stage II,T2,N1,MX,Infiltrating Duct Carcinoma,R0,Pancreas Head,G2,2013,4.0,2.8,N2,T2,Stage III,108.0
+TCGA-IB-7887,Stage II,T3,N1,M0,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2009,3.0,5.5,N1,T3,Stage II,
+TCGA-FZ-5919,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,,Pancreas Head,G3,2007,9.0,,N2,T3,Stage III,27.0
+TCGA-FB-AAQ1,Stage II,T3,N1,MX,Infiltrating Duct Carcinoma,R1,Pancreas Head,G2,2011,3.0,6.0,N1,T3,Stage II,52.0
